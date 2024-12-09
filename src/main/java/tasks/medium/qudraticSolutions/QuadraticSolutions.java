@@ -1,4 +1,4 @@
-package tasks.qudraticSolutions;
+package tasks.medium.qudraticSolutions;
 
 //How many solutions does ax² + bx + c = 0 have?
 public class QuadraticSolutions {

@@ -1,4 +1,4 @@
-package tasks.kaprekarsConstant;
+package tasks.expert.kaprekarsConstant;
 
 import java.util.List;
 
